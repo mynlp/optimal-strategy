@@ -190,8 +190,7 @@ eval_other_params: dict[str, dict[str, Any]] = {
 ## Paths, Device and Script Settings ##
 #######################################
 
-# base_dir: Path = Path("../tmp")
-base_dir: Path = Path("../dev_tmp")
+base_dir: Path = Path("../tmp")
 
 # Device setting
 
